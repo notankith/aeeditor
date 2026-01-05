@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "fps": 30,
+    "aspect": "9:16",
+    "warnings": []
+  },
+  "audio": {
+    "src": "C:\\Users\\AprilHaze\\Downloads\\download (2).wav"
+  },
+  "cache_dir": "D:\\VSCode Projects\\Payload\\jobs\\cache\\",
+  "words": [
+    {
+      "text": "Is",
+      "start": 0.24,
+      "end": 0.44
+    },
+    {
+      "text": "Travis",
+      "start": 0.44,
+      "end": 0.96
+    },
+    {
+      "text": "Kelce",
+      "start": 0.96,
+      "end": 1.48
+    },
+    {
+      "text": "leaving",
+      "start": 1.48,
+      "end": 1.84
+    },
+    {
+      "text": "the",
+      "start": 1.84,
+      "end": 2.08
+    },
+    {
+      "text": "Kansas",
+      "start": 2.08,
+      "end": 2.52
+    },
+    {
+      "text": "City",
+      "start": 2.52,
+      "end": 2.72
+    },
+    {
+      "text": "Chiefs",
+      "start": 2.72,
+      "end": 3.16
+    },
+    {
+      "text": "to",
+      "start": 3.16,
+      "end": 3.32
+    },
+    {
+      "text": "chase",
+      "start": 3.32,
+      "end": 3.76
+    },
+    {
+      "text": "one",
+      "start": 3.76,
+      "end": 4.16
+    },
+    {
+      "text": "final",
+      "start": 4.24,
+      "end": 4.64
+    },
+    {
+      "text": "super",
+      "start": 4.64,
+      "end": 4.96
+    },
+    {
+      "text": "bowl",
+      "start": 4.96,
+      "end": 5.24
+    },
+    {
+      "text": "ring",
+      "start": 5.24,
+      "end": 5.56
+    },
+    {
+      "text": "before",
+      "start": 5.56,
+      "end": 5.92
+    },
+    {
+      "text": "retirement?",
+      "start": 5.92,
+      "end": 6.64
+    },
+    {
+      "text": "Well,",
+      "start": 7.12,
+      "end": 7.48
+    },
+    {
+      "text": "Rob",
+      "start": 7.48,
+      "end": 7.92
+    },
+    {
+      "text": "Gronkowski",
+      "start": 7.92,
+      "end": 8.76
+    },
+    {
+      "text": "doesn't",
+      "start": 8.76,
+      "end": 9.04
+    },
+    {
+      "text": "think",
+      "start": 9.04,
+      "end": 9.16
+    },
+    {
+      "text": "Kelce",
+      "start": 9.16,
+      "end": 9.6
+    },
+    {
+      "text": "will",
+      "start": 9.6,
+      "end": 9.88
+    },
+    {
+      "text": "quietly",
+      "start": 9.88,
+      "end": 10.48
+    },
+    {
+      "text": "ride",
+      "start": 10.48,
+      "end": 10.76
+    },
+    {
+      "text": "off",
+      "start": 10.76,
+      "end": 10.96
+    },
+    {
+      "text": "into",
+      "start": 10.96,
+      "end": 11.2
+    },
+    {
+      "text": "the",
+      "start": 11.2,
+      "end": 11.4
+    },
+    {
+      "text": "sunset.",
+      "start": 11.4,
+      "end": 11.92
+    },
+    {
+      "text": "Instead,",
+      "start": 12.24,
+      "end": 12.8
+    },
+    {
+      "text": "Gronk",
+      "start": 12.96,
+      "end": 13.6
+    },
+    {
+      "text": "believes",
+      "start": 13.6,
+      "end": 14.04
+    },
+    {
+      "text": "Kelsey",
+      "start": 14.04,
+      "end": 14.64
+    },
+    {
+      "text": "could",
+      "start": 14.64,
+      "end": 14.92
+    },
+    {
+      "text": "test",
+      "start": 14.92,
+      "end": 15.24
+    },
+    {
+      "text": "the",
+      "start": 15.24,
+      "end": 15.48
+    },
+    {
+      "text": "market",
+      "start": 15.48,
+      "end": 15.76
+    },
+    {
+      "text": "and",
+      "start": 15.919,
+      "end": 16.199
+    },
+    {
+      "text": "chase",
+      "start": 16.199,
+      "end": 16.48
+    },
+    {
+      "text": "another",
+      "start": 16.48,
+      "end": 16.76
+    },
+    {
+      "text": "ring",
+      "start": 16.76,
+      "end": 17.2
+    },
+    {
+      "text": "elsewhere",
+      "start": 17.2,
+      "end": 17.68
+    },
+    {
+      "text": "if",
+      "start": 17.68,
+      "end": 17.96
+    },
+    {
+      "text": "he",
+      "start": 17.96,
+      "end": 18.2
+    },
+    {
+      "text": "decides",
+      "start": 18.2,
+      "end": 18.56
+    },
+    {
+      "text": "to",
+      "start": 18.56,
+      "end": 18.76
+    },
+    {
+      "text": "come",
+      "start": 18.76,
+      "end": 18.92
+    },
+    {
+      "text": "back.",
+      "start": 18.92,
+      "end": 19.2
+    },
+    {
+      "text": "Can",
+      "start": 19.76,
+      "end": 20.08
+    },
+    {
+      "text": "you",
+      "start": 20.08,
+      "end": 20.36
+    },
+    {
+      "text": "imagine",
+      "start": 20.36,
+      "end": 21.04
+    },
+    {
+      "text": "Kelce",
+      "start": 21.04,
+      "end": 21.6
+    },
+    {
+      "text": "in",
+      "start": 21.6,
+      "end": 21.8
+    },
+    {
+      "text": "a",
+      "start": 21.8,
+      "end": 21.96
+    },
+    {
+      "text": "jersey",
+      "start": 21.96,
+      "end": 22.44
+    },
+    {
+      "text": "that",
+      "start": 22.44,
+      "end": 22.64
+    },
+    {
+      "text": "isn't",
+      "start": 22.64,
+      "end": 23.04
+    },
+    {
+      "text": "Chiefs",
+      "start": 23.04,
+      "end": 23.52
+    },
+    {
+      "text": "red?",
+      "start": 23.52,
+      "end": 23.84
+    }
+  ],
+  "segments": [
+    {
+      "type": "image",
+      "entity": "travis kelce",
+      "src": [
+        "D:\\VSCode Projects\\Payload\\jobs\\cache\\74ffe9bb78e940153cdbdc049e912879_9e904-17666812346583-1920.jpg",
+        "D:\\VSCode Projects\\Payload\\jobs\\cache\\7f2b16ad28bcbe6cd059af2db1da42a4_USATSI_24244930-scaled.jpg"
+      ],
+      "start": 0.0,
+      "end": 3.0,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "travis kelce",
+      "src": [
+        "D:\\VSCode Projects\\Payload\\jobs\\cache\\0a73573cf401e56c3bbd4b39cdeaed91_63c13-17667138711838-1920.jpg",
+        "D:\\VSCode Projects\\Payload\\jobs\\cache\\1be270c6f288210bf0598de4db817339_Ryan-Crow-768x432.jpg"
+      ],
+      "start": 3.0,
+      "end": 3.32,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "travis kelce",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\07c1ae429b3febd74562f8c5ab04cf3a_27904349.jpg",
+      "start": 3.32,
+      "end": 6.32,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "travis kelce",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\812918573aa0c3de915daebedf49cf9a_892fd-17659089177016-1920.jpg",
+      "start": 6.32,
+      "end": 6.64,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "misc",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\7f2b16ad28bcbe6cd059af2db1da42a4_USATSI_24244930-scaled.jpg",
+      "start": 6.64,
+      "end": 7.12,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "rob gronkowski",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\2e03724d3646ec3e0efa1f6c1e7b77ee_accf4-17661519895586-1920.jpg",
+      "start": 7.12,
+      "end": 10.12,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "rob gronkowski",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\e817b74872ed9cba27a981e1668c10c5_67956-17630430101147-1920.jpg",
+      "start": 10.12,
+      "end": 11.92,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "misc",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\1be270c6f288210bf0598de4db817339_Ryan-Crow-768x432.jpg",
+      "start": 11.92,
+      "end": 12.24,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "rob gronkowski",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\a6657837e34e154d48f9acac23bca5fb_22b50-17633512890665-1920.jpg",
+      "start": 12.24,
+      "end": 15.24,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "rob gronkowski",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\8e74a59f2d49eb162d1e70fd39939a0d_a46e1-17629708177829-1920.jpg",
+      "start": 15.24,
+      "end": 15.76,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "misc",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\7f2b16ad28bcbe6cd059af2db1da42a4_USATSI_24244930-scaled.jpg",
+      "start": 15.76,
+      "end": 15.919,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "travis kelce",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\966347f96052188e668fda713c413102_6e87d-17658065432121-1920.jpg",
+      "start": 15.919,
+      "end": 18.919,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "travis kelce",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\906ccb6a15fe4a45b8ec011141683f49_59eae-17663105192120-1920.jpg",
+      "start": 18.919,
+      "end": 19.2,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "misc",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\1be270c6f288210bf0598de4db817339_Ryan-Crow-768x432.jpg",
+      "start": 19.2,
+      "end": 19.76,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "travis kelce",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\74ffe9bb78e940153cdbdc049e912879_9e904-17666812346583-1920.jpg",
+      "start": 19.76,
+      "end": 22.76,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    },
+    {
+      "type": "image",
+      "entity": "travis kelce",
+      "src": "D:\\VSCode Projects\\Payload\\jobs\\cache\\0a73573cf401e56c3bbd4b39cdeaed91_63c13-17667138711838-1920.jpg",
+      "start": 22.76,
+      "end": 23.84,
+      "animation": "zoom_in",
+      "words": [],
+      "word_indices": []
+    }
+  ],
+  "transcript_json": "D:\\VSCode Projects\\Payload\\jobs\\transcript.json",
+  "openai_mapping": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "image": "travis kelce",
+      "split": true
+    },
+    {
+      "start": 3.32,
+      "end": 6.64,
+      "image": "travis kelce",
+      "split": false
+    },
+    {
+      "start": 7.12,
+      "end": 11.92,
+      "image": "rob gronkowski",
+      "split": false
+    },
+    {
+      "start": 12.24,
+      "end": 15.76,
+      "image": "rob gronkowski",
+      "split": false
+    },
+    {
+      "start": 15.919,
+      "end": 19.2,
+      "image": "travis kelce",
+      "split": false
+    },
+    {
+      "start": 19.76,
+      "end": 23.84,
+      "image": "travis kelce",
+      "split": false
+    }
+  ],
+  "openai_mapping_raw": "D:\\VSCode Projects\\Payload\\jobs\\mapping_raw.txt"
+}

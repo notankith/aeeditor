@@ -1,0 +1,8 @@
+[
+    {"start": 0.0, "end": 3.32, "image": "travis kelce", "split": true},
+    {"start": 3.32, "end": 6.64, "image": "travis kelce", "split": false},
+    {"start": 7.12, "end": 11.92, "image": "rob gronkowski", "split": false},
+    {"start": 12.24, "end": 15.76, "image": "rob gronkowski", "split": false},
+    {"start": 15.919, "end": 19.2, "image": "travis kelce", "split": false},
+    {"start": 19.76, "end": 23.84, "image": "travis kelce", "split": false}
+]

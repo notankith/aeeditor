@@ -1,0 +1,6 @@
+{
+	"asset_json": "data/assets.json",
+	"script_file": "data/script.txt",
+	"voiceover": "",
+	"output_dir": "jobs/"
+}

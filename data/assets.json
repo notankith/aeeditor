@@ -1,0 +1,61 @@
+{
+  "Patrick Mahomes": {
+    "type": "player",
+    "assets": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Andy_Reid_%28Kansas_City_Chiefs_at_Washington_Football_Team%2C_October_17%2C_2021%29_%28cropped%29.jpg/1041px-Andy_Reid_%28Kansas_City_Chiefs_at_Washington_Football_Team%2C_October_17%2C_2021%29_%28cropped%29.jpg",
+      "https://dims.apnews.com/dims4/default/441f154/2147483647/strip/true/crop/7008x4672+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F39%2F7a%2F68475c7fad96b99639ca4a1eec39%2F5008148816d24b57857d84f6dc9fec73",
+      "https://www.usmagazine.com/wp-content/uploads/2025/08/GettyImages-2229995009-Andy-Reid-2025.jpg"
+    ]
+  },
+  "Kansas City Chiefs": {
+    "type": "team",
+    "aliases": ["chiefs fans", "cheifs", "chiefs"],
+    "assets": [
+      "https://example.com/assets/chiefs_1.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/12/79bb8-17669417436151-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/12/57f3c-17664938637281-1920.jpg",
+      "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1203676236.jpg?c=16x9&q=h_833,w_1480,c_fill"
+    ]
+  },
+  "Travis Kelce": {
+    "type": "player",
+    "aliases": ["kelce", "travis"],
+    "assets": [
+      "https://staticg.sportskeeda.com/editor/2025/12/9e904-17666812346583-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/12/63c13-17667138711838-1920.jpg",
+      "https://cdn.imagn.com/image/thumb/650-650nw/27904349.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/12/892fd-17659089177016-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/12/6e87d-17658065432121-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/12/59eae-17663105192120-1920.jpg"
+    ]
+  },
+  "Rob Gronkowski": {
+    "type": "player",
+    "aliases": ["gronk", "gronkowski"],
+    "assets": [
+      "https://staticg.sportskeeda.com/editor/2025/12/accf4-17661519895586-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/11/67956-17630430101147-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/11/22b50-17633512890665-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/11/a46e1-17629708177829-1920.jpg"
+    ]
+  },
+  "crowd": {
+    "type": "fallback",
+    "assets": [
+      "https://frontofficesports.com/wp-content/uploads/2024/10/USATSI_24244930-scaled.jpg",
+      "https://www.sportsnet.ca/wp-content/uploads/2024/02/Ryan-Crow-768x432.jpg"
+    ]
+  },
+  "Andy Reid": {
+    "type": "coach",
+    "aliases": ["reid", "andy reid"],
+    "assets": [
+      "https://staticg.sportskeeda.com/editor/2025/12/02163-17667650015427-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/11/05f09-17642960570437-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/11/f0eed-17642937527584-1920.jpg",
+      "http://staticg.sportskeeda.com/editor/2025/11/c8b3e-17638815691643-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/11/49655-17621955461063-1920.jpg",
+      "https://staticg.sportskeeda.com/editor/2025/11/cbd0b-17621955024084-1920.jpg"
+    ]
+  }
+}
